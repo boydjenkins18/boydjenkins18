@@ -1,7 +1,7 @@
 ![Banner](https://i.imgur.com/txcKmvx.jpg)
 <h1 align="center">Hi 👋, I'm Boyd Jenkins</h1>
 <h3 align="center">A software engineer with a passion for development and cybersecurity</h3>
-(img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp")
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
 
 - 🔭 I’m currently working on **Python-based file categorization system**
 
