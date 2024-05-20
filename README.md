@@ -1,8 +1,6 @@
 ![Banner](https://i.imgur.com/txcKmvx.jpg)
 <h1 align="center">Hi 👋, I'm Boyd Jenkins</h1>
-<h3 align="center">A software engineer with a passion for development and cybersecurity</h3>
-
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h3 align="center">A software engineer and Cybersecurity Professional</h3>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
