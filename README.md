@@ -49,7 +49,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
 
-- 🔭 I’m currently working on **Python-based file categorization system**
+- 🔭 I’m currently working on **Azure Cloud SOC and Honeynet Homelab**
 
 - 🌱 I’m currently learning **Cloud Computing, Data Structures, and Algorithm Design as part of my Software Engineering program**
 
