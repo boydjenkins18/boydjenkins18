@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Boyd Jenkins</h1>
 <h3 align="center">A Software Engineerring Student and a Cybersecurity Analyst</h3>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Coding and Cybersecurity Projects:</h2>
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/boydjenkins18/Azure-SOC-Honeynet)
