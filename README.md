@@ -57,7 +57,7 @@
 
 - 📫 How to reach me **boydjenkins18@gmail.com**
 
-- ⚡ Fun fact **I enjoy automating everyday tasks, and I'm fascinated by the potential of AI in software engineering.**
+- ⚡ Fun fact **I enjoy automating everyday tasks, Learning about cybersecurity and doing homelabs, and I'm fascinated by the potential of AI in software engineering.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
